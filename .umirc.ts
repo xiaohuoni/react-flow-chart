@@ -1,6 +1,6 @@
 import { defineConfig } from 'dumi';
 
-const repo = 'dumi-template';
+const repo = 'react-flow-chart';
 
 export default defineConfig({
   title: repo,
@@ -18,8 +18,9 @@ export default defineConfig({
     null,
     {
       title: 'GitHub',
-      path: 'https://github.com/umijs/dumi-template',
+      path: 'https://github.com/xiaohuoni/react-flow-chart',
     },
   ],
   // more config: https://d.umijs.org/config
+  styles: [`.__dumi-default-layout-hero{display: none;}`],
 });

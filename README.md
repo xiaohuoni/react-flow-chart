@@ -1,59 +1,9 @@
 # 🌟 Dumi Template
 
-A doc template can assist you to develop libraries & write docs.
+项目需要，在 `https://github.com/ant-design/pro-blocks/tree/master/EditorFlow` 的基础上修改。
+使用的是 [GGEditor](https://github.com/alibaba/GGEditor)@2.0.2 。
+没用最新的版本，因为找不到使用文档。
 
-English | [简体中文](./README.zh-CN.md)
+后续也可以考虑使用 [X6](https://github.com/antvis/X6)。
 
-## 🚀 How to use?
-
-![](https://gw.alipayobjects.com/zos/bmw-prod/91791904-cdde-4408-959d-72fd0c9049b1/kj80x6lv_w1918_h352.png)
-
-## ✨ Online preview
-
-https://umijs.github.io/dumi-template/
-
-## 📒 Catalog Introduction
-
-```
-├── docs                   Component documentation
-│   ├── index.md           Home page
-│   └── **.**              Site Directory Document
-├── src                    Component home directory
-│   ├── index.ts           Component registration
-│   └── Foo                Component development
-├── .eslintrc.js           eslint config
-├── .fatherrc.ts           father config
-├── .umirc.ts              dumi config
-└── tsconfig.json          typescript config
-```
-
-The rest of the documents can be consulted by yourself.
-
-## 🤖 Command introduction
-
-| Name                    | Description               | Remarks                                                                                                            |
-| ----------------------- | ------------------------- | ------------------------------------------------------------------------------------------------------------------ |
-| `npm run start`         | Project begining          | Document usage [dumi](https://github.com/umijs/dumi), component development and documentation development together |
-| `npm run test`          | Component test            | -                                                                                                                  |
-| `npm run test:coverage` | Code coverage review      | -                                                                                                                  |
-| `npm run prettier`      | Code prettier             | -                                                                                                                  |
-| `npm run build`         | Component packaging       | Use [father](https://github.com/umijs/father)                                                                      |
-| `npm run release`       | Component package release | -                                                                                                                  |
-| `npm run docs:build`    | Document packaging        | -                                                                                                                  |
-| `npm run docs:deploy`   | Document release          | The default is to use GitHub Pages                                                                                 |
-| `npm run deploy`        | Document package release  | -                                                                                                                  |
-
-### README Badge
-
-Using dumi ? Add a README badge to show it off: [![dumi](https://img.shields.io/badge/docs%20by-dumi-blue)](https://github.com/umijs/dumi)
-
-```
-[![dumi](https://img.shields.io/badge/docs%20by-dumi-blue)](https://github.com/umijs/dumi)
-```
-
-## Discuss group
-
-<div>
-  <img data-type="dingtalk" src="https://gw.alipayobjects.com/zos/bmw-prod/ec249703-be12-416c-8f33-297e47d9439c/kjy5ls84_w1004_h1346.png" width="300" />
-  <img data-type="wechat" src="https://gw.alipayobjects.com/zos/bmw-prod/c18bc2a5-719a-48ca-b225-c79ef88bfb43/k7m10ymd_w1004_h1346.jpeg" width="300" />
-</div>
+![image](https://user-images.githubusercontent.com/11746742/120453621-ca017980-c3c5-11eb-84be-52da4c79acac.png)
