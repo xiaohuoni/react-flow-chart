@@ -9,10 +9,8 @@ footer: Open-source MIT Licensed | Copyright © 2021-present<br />Powered by xia
 
 ## 轻松上手
 
-手动创建第一篇文档
-
 ```bash
-
+yarn add @alitajs/flow-chart
 ```
 
-<code src="./demos/base.tsx" />
+<code src="./demos/base.tsx" inline />

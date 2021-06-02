@@ -9,10 +9,8 @@ footer: Open-source MIT Licensed | Copyright © 2019-present<br />Powered by xia
 
 ## Getting Started
 
-Create first doc in manual way
-
 ```bash
-
+yarn add @alitajs/flow-chart
 ```
 
 <code src="./demos/base.tsx" inline />
