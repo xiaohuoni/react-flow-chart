@@ -7,7 +7,7 @@ import {
   DetailPanel,
   ItemPanel,
   Toolbar,
-} from 'flow-chart';
+} from '@alitajs/flow-chart';
 import 'antd/dist/antd.css';
 import EdgeNode from './EdgeNode';
 import styles from './index.less';

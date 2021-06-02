@@ -13,4 +13,6 @@ footer: Open-source MIT Licensed | Copyright © 2021-present<br />Powered by xia
 yarn add @alitajs/flow-chart
 ```
 
+## 演示
+
 <code src="./demos/base.tsx" inline />
